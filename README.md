@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hey, I'm Madhurima👋</h1>
 
 About me:
