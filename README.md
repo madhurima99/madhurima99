@@ -13,8 +13,8 @@ About me:
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://rmadhurima99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 </a><a href="https://www.linkedin.com/in/madhurima01/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="" height="30" width="35" /></a>
+<a href="https://rmadhurima99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 
 </p>
 
