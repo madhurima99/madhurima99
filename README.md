@@ -13,7 +13,7 @@ About me:
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-</a><a href="https://www.linkedin.com/in/madhurima01/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_LinkedIn-Outline-512.png" alt="" height="30" width="35" /></a>
+ </a><a href="https://www.linkedin.com/in/madhurima01/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.pngg" alt="" height="30" width="35" /></a>
 <a href="https://rmadhurima99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 
 </p>
