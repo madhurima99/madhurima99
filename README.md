@@ -8,6 +8,8 @@ About me:
 
 - 💬 Ask me about **AI/ML, Python.** Happy to help!
 
+- 😄 Pronouns: She/Her
+
 - 🧐 Curious to learn anything new.
 
 
