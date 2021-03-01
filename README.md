@@ -15,8 +15,8 @@ About me:
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
- </a><a href="https://www.linkedin.com/in/madhurima01/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" alt="" height="30" width="30" /></a>
-<a href="https://rmadhurima99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+ </a><a href="https://www.linkedin.com/in/madhurima01/" target="blank"><img align="center" src="https://i.ibb.co/zRqcSND/linked-IN-2.jpg" alt="" height="40" width="40" /></a>   
+ <a href="https://rmadhurima99@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/hBQTCmW/gmail.jpg" alt="" height="30" width="36" /></a>
 
 </p>
 
