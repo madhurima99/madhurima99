@@ -17,7 +17,7 @@ About me:
 <h3 align="left">Connect with me:</h3>
  <a href="https://www.linkedin.com/in/madhurima01/" target="blank"><img align="center" src="https://i.ibb.co/zRqcSND/linked-IN-2.jpg" alt="" height="40" width="40"/>
  </a>   
- <a href="https://rmadhurima99@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/55PxJ9W/gmail2.jpg" alt="" height="40" width="40" /></a>
+ <a href="https://rmadhurima99@gmail.com" target="blank"><img align="center" src="https://i.ibb.co/55PxJ9W/gmail2.jpg" alt="" height="40" width="42" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
