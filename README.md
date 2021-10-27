@@ -4,7 +4,7 @@ About me:
 
 - 🔭 I’m pursuing my bachelor's degree in Computer Science and Engineering.
 
-- 🌱 I’m currently learning **Deep learning and Computer Vision.**
+- 🌱 I’m currently learning **Deep learning and natural language processing.**
 
 - 💬 Ask me about **AI/ML, Python.** Happy to help!
 
