@@ -34,7 +34,8 @@ About me:
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=madhurima99&show_icons=true&theme=cobalt" alt="madhurimaStats"/>
-</a>
+</a><br>
+<br>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurima99&layout=compact&theme=cobalt" alt="madhurimaTopLang"/>
 </a>
